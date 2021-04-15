@@ -8,3 +8,5 @@
 
 [2.1544-整理字符串](https://github.com/1741493004/leecode/blob/main/数据结构/栈/1544整理字符串.md)
 
+[3.804-比较含退格字符串](https://github.com/1741493004/leecode/blob/main/数据结构/栈/804比较含退格的字符串.md)
+
