@@ -12,3 +12,5 @@
 
 [3.844-比较含退格字符串](https://github.com/1741493004/leecode/blob/main/数据结构/栈/844比较含退格的字符串.md)
 
+[4.997-找法官](https://github.com/1741493004/leecode/blob/main/数据结构/图/997找到小镇的法官.md)
+
