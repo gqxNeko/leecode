@@ -15,6 +15,10 @@
 [71-简化路径](https://github.com/1741493004/leecode/blob/main/数据结构/栈/71简化路径.md)
 
 [94-二叉树中序遍历](https://github.com/1741493004/leecode/blob/main/数据结构/栈/94二叉树的中序遍历.md)
+
+[144-二叉树先序遍历](https://github.com/1741493004/leecode/blob/main/数据结构/栈/144二叉树的先序遍历.md)
+
+[145-二叉树后序遍历(迭代方法有点复杂)](https://github.com/1741493004/leecode/blob/main/数据结构/栈/145二叉树的后序遍历.md)
 #### 二、队列
 [933-最近请求次数](https://github.com/1741493004/leecode/blob/main/数据结构/队列/933最近的请求次数.md)
 #### 三、图
