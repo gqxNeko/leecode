@@ -38,3 +38,5 @@
 #### 一、滑动窗口
 [219-存在重复元素II](https://github.com/1741493004/leecode/blob/main/方法/1.滑动窗口求最小差值/219.存在重复元素II.md)
 
+#### 二、哈希表
+[525-连续数组](https://github.com/1741493004/leecode/blob/main/方法/2.哈希表+前缀和/525.连续数组.md)
